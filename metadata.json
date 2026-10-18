@@ -1,0 +1,6 @@
+{
+  "name": "ScamCheck India",
+  "description": "Instant scam verification for SMS, WhatsApp, and email messages in English, Hindi, and Marathi with risk score, red flags, and 1930 Cyber Helpline guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
